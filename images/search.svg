@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-136.000000, -195.000000)" fill="#FFFFFF">
+            <path d="M148,195.001 C141.39,195.001 136,200.391 136,207.001 C136,213.611 141.39,219.001 148,219.001 C150.741,219.001 153.257,218.057 155.281,216.501 L156.875,218.126 L156.344,218.657 C156.149,218.852 156.149,219.149 156.344,219.345 L163.657,226.658 C163.852,226.853 164.149,226.853 164.345,226.658 L167.658,223.345 C167.853,223.15 167.853,222.853 167.658,222.657 L160.345,215.344 C160.15,215.149 159.853,215.149 159.657,215.344 L159.032,215.969 L157.438,214.375 C159.035,212.336 160.001,209.781 160.001,207 C160.001,200.39 154.611,195 148.001,195 L148,195.001 Z M148,198.001 C152.988,198.001 157,202.013 157,207.001 C157,211.989 152.988,216.001 148,216.001 C143.012,216.001 139,211.989 139,207.001 C139,202.013 143.012,198.001 148,198.001 L148,198.001 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
